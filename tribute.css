@@ -37,3 +37,11 @@ body {
   margin-left: 20%;
   margin-right: 20%;
 }
+
+a:link {
+  color: rgb(51, 153, 255);
+}
+
+a:visited {
+  color: rgb(0, 0, 51);
+}
